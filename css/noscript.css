@@ -1,0 +1,4 @@
+[data-df-intro-animation] {
+    transform: initial;
+    opacity: var(--js-opacity);
+}
